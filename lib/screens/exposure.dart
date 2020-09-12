@@ -53,9 +53,8 @@ class _ExposureState extends State<Exposure> {
                     color: Colors.red[900],
                   ),
                   Row(
-                      mainAxisAlignment: MainAxisAlignment.start,
+                      mainAxisAlignment: MainAxisAlignment.center,
                       children: <Widget>[
-                        SizedBox(width: 50, height: 70),
                         Text(
                           'The application is not active',
                           style: const TextStyle(
@@ -66,10 +65,10 @@ class _ExposureState extends State<Exposure> {
                         ),
                       ]),
                   Divider(
-                    height: 5.0,
+                    height: 40.0,
                     color: Colors.white,
                     indent: 20,
-                    endIndent: 20,
+                    endIndent: 10,
                   ),
                   Container(
                     padding: EdgeInsets.all(20),

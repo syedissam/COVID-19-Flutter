@@ -44,7 +44,8 @@ class _NotifyState extends State<Notify> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 Text(
                   'Share Your COVID-19 Positive Diagnosis',

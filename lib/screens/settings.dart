@@ -70,9 +70,9 @@ class _SettingsState extends State<Settings> {
   SliverPadding _gesturebox1() {
     return SliverPadding(
         padding: const EdgeInsets.only(
-          left: 10,
+          left: 20,
           top: 5,
-          right: 10,
+          right: 20,
           bottom: 5,
         ),
         sliver: SliverToBoxAdapter(
@@ -119,9 +119,9 @@ class _SettingsState extends State<Settings> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: <Widget>[
-                                SizedBox(
-                                  width: 70.0,
-                                ),
+                                // SizedBox(
+                                //   width: 70.0,
+                                // ),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   color: Colors.grey,
@@ -134,9 +134,9 @@ class _SettingsState extends State<Settings> {
   SliverPadding _gesturebox2() {
     return SliverPadding(
         padding: const EdgeInsets.only(
-          left: 10,
+          left: 20,
           top: 5,
-          right: 10,
+          right: 20,
           bottom: 5,
         ),
         sliver: SliverToBoxAdapter(
@@ -183,9 +183,9 @@ class _SettingsState extends State<Settings> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: <Widget>[
-                                SizedBox(
-                                  width: 40.0,
-                                ),
+                                // SizedBox(
+                                //   width: 40.0,
+                                // ),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   color: Colors.grey,
@@ -198,9 +198,9 @@ class _SettingsState extends State<Settings> {
   SliverPadding _gesturebox3() {
     return SliverPadding(
         padding: const EdgeInsets.only(
-          left: 10,
+          left: 20,
           top: 5,
-          right: 10,
+          right: 20,
           bottom: 5,
         ),
         sliver: SliverToBoxAdapter(
@@ -247,9 +247,9 @@ class _SettingsState extends State<Settings> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: <Widget>[
-                                SizedBox(
-                                  width: 150.0,
-                                ),
+                                // SizedBox(
+                                //   width: 150.0,
+                                // ),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   color: Colors.grey,
@@ -262,9 +262,9 @@ class _SettingsState extends State<Settings> {
   SliverPadding _gesturebox4() {
     return SliverPadding(
         padding: const EdgeInsets.only(
-          left: 10,
+          left: 20,
           top: 5,
-          right: 10,
+          right: 20,
           bottom: 5,
         ),
         sliver: SliverToBoxAdapter(
@@ -311,9 +311,9 @@ class _SettingsState extends State<Settings> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: <Widget>[
-                                SizedBox(
-                                  width: 35.0,
-                                ),
+                                // SizedBox(
+                                //   width: 35.0,
+                                // ),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   color: Colors.grey,
@@ -326,9 +326,9 @@ class _SettingsState extends State<Settings> {
   SliverPadding _gesturebox5() {
     return SliverPadding(
         padding: const EdgeInsets.only(
-          left: 10,
+          left: 20,
           top: 5,
-          right: 10,
+          right: 20,
           bottom: 5,
         ),
         sliver: SliverToBoxAdapter(
@@ -375,9 +375,9 @@ class _SettingsState extends State<Settings> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: <Widget>[
-                                SizedBox(
-                                  width: 90.0,
-                                ),
+                                // SizedBox(
+                                //   width: 90.0,
+                                // ),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   color: Colors.grey,
@@ -390,9 +390,9 @@ class _SettingsState extends State<Settings> {
   SliverPadding _gesturebox6() {
     return SliverPadding(
         padding: const EdgeInsets.only(
-          left: 10,
+          left: 20,
           top: 5,
-          right: 10,
+          right: 20,
           bottom: 5,
         ),
         sliver: SliverToBoxAdapter(
@@ -439,9 +439,9 @@ class _SettingsState extends State<Settings> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: <Widget>[
-                                SizedBox(
-                                  width: 155.0,
-                                ),
+                                // SizedBox(
+                                //   width: 155.0,
+                                // ),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   color: Colors.grey,
@@ -454,9 +454,9 @@ class _SettingsState extends State<Settings> {
   SliverPadding _gesturebox7() {
     return SliverPadding(
         padding: const EdgeInsets.only(
-          left: 10,
+          left: 20,
           top: 5,
-          right: 10,
+          right: 20,
           bottom: 5,
         ),
         sliver: SliverToBoxAdapter(
@@ -503,9 +503,9 @@ class _SettingsState extends State<Settings> {
                               mainAxisAlignment: MainAxisAlignment.end,
                               crossAxisAlignment: CrossAxisAlignment.center,
                               children: <Widget>[
-                                SizedBox(
-                                  width: 40.0,
-                                ),
+                                // SizedBox(
+                                //   width: 40.0,
+                                // ),
                                 Icon(
                                   Icons.keyboard_arrow_right,
                                   color: Colors.grey,
